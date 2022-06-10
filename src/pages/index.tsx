@@ -160,7 +160,7 @@ const Index = () => {
       </ul>
       <p>
         Check our GitHub project for more information about{' '}
-        <a href="https://github.com/ixartz/Next-js-Boilerplate">
+        <a href="https://github.com/thiendang/boilerplate-and-starter-for-next-js-tailwind-css-and-typescript">
           Nextjs Boilerplate
         </a>
         . You can also browse our{' '}
